@@ -1,13 +1,13 @@
-package com.example.dio.spring.course;
+package com.example.spring.course;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DioSpringCourseApplication {
+public class SpringCourseApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DioSpringCourseApplication.class, args);
+		SpringApplication.run(SpringCourseApplication.class, args);
 	}
 
 }
