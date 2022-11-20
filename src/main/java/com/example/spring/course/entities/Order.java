@@ -1,5 +1,6 @@
 package com.example.spring.course.entities;
 
+import com.example.spring.course.entities.enums.OrderStatus;
 import com.fasterxml.jackson.annotation.JsonFormat;
 
 import javax.persistence.*;

@@ -1,4 +1,4 @@
-package com.example.spring.course.entities;
+package com.example.spring.course.entities.enums;
 
 public enum OrderStatus {
 
